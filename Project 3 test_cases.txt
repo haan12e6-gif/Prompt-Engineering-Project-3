@@ -1,0 +1,25 @@
+Reference:
+Ali lives in Lahore.
+Ali is 25 years old.
+
+Question:
+Where does Ali live?
+
+Expected Answer:
+Lahore
+Reference:
+Ali lives in Lahore.
+
+Question:
+What is Ali's salary?
+
+Expected Answer:
+Information Not Found
+Reference:
+Sara works as a teacher.
+
+Question:
+What is Sara's profession?
+
+Expected Answer:
+Teacher
